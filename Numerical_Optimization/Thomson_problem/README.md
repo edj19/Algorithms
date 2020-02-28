@@ -26,11 +26,13 @@ The global minimization of $U(N)$ over all possible of N distinct points is typi
 
 * Initial random configuration
 
-
+![](https://github.com/edj19/Algorithms/blob/master/Numerical_Optimization/Thomson_problem/figures/sphere.jpg)
 
 
 
 * equilibration configuration
+
+![](https://github.com/edj19/Algorithms/blob/master/Numerical_Optimization/Thomson_problem/figures/sphere_init.jpg)
 
 
 

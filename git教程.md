@@ -1,5 +1,7 @@
 ![git_logo](F:\蒙特卡罗工作\研究生毕业论文\辐照损伤软件开发\Algorithms\figures\git_logo.png)
 
+![](https://github.com/edj19/Algorithms/blob/master/figures/git_logo.png)
+
 # Git教程
 
 ## Git介绍
@@ -177,6 +179,8 @@ git config --global user.email "email@example.com"
 
 工作区有一个隐藏目录**.git**叫做Git的版本库，这里存了很多东西，其中最重要的称为**stage(或index)**的暂存区，还有Git为我们自动创建的第一个分支**master**，以及指向**master**的一个指针叫做**HEAD**。相应的图示如下图所示：
 
+![](https://github.com/edj19/Algorithms/blob/master/figures/git_版本库.jpg)
+
 ![git_版本库](F:\蒙特卡罗工作\研究生毕业论文\辐照损伤软件开发\Algorithms\figures\git_版本库.jpg)
 
 则将文件往Git版本库添加时，分两步执行：
@@ -236,11 +240,15 @@ ssh-keygen -t rsa -C "youremail@example.com"
 
 首先，登陆GitHub，在右上角找到“Create a new repo"按钮，创建一个新的仓库：
 
+![](https://github.com/edj19/Algorithms/blob/master/figures/gitthub01.jpg)
+
 
 
 ![github01](F:\蒙特卡罗工作\研究生毕业论文\辐照损伤软件开发\Algorithms\figures\github01.jpg)
 
 填入Repository name，其他保持默认设置，点击“Create repository"，就成功创建了一个新的Git仓库：
+
+![](https://github.com/edj19/Algorithms/blob/master/figures/github02.jpg)
 
 ![github02](F:\蒙特卡罗工作\研究生毕业论文\辐照损伤软件开发\Algorithms\figures\github02.jpg)
 
@@ -275,6 +283,12 @@ git clone https://github.com/edj19/Algorithms.git
 ```
 
 好了通过上面的介绍一个简单的git操作以及与GitHub协作就整理的差不多，大家就可以愉快的学习了！！！！
+
+## Git进阶
+
+### 图片，目录
+
+* 如何向GitHub中README.md添加图片呢？
 
 
 
